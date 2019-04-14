@@ -1,5 +1,5 @@
 # shell-last-path
-inserts the last used path in zsh
+inserts the last used path in zsh/bash
 
 # Dependencies
 The script requires the [xdotool](https://www.semicomplete.com/projects/xdotool/) package to be installed.
