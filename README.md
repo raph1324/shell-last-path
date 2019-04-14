@@ -1,4 +1,4 @@
-# zsh-last-path
+# shell-last-path
 inserts the last used path in zsh
 
 # Dependencies
