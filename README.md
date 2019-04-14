@@ -6,7 +6,8 @@ The script requires the [xdotool](https://www.semicomplete.com/projects/xdotool/
 
 # Prerequisites
 ## for bash
-You need to put `PROMPT_COMMAND="history -a"` in your `bashrc`.
+You need to put `PROMPT_COMMAND="history -a"` in your `bashrc`.  
+Change "USER" in the path to the history to your username
 
 ## for zsh
 You need to put `setopt INC_APPEND_HISTORY` in your `.zshrc`.  
