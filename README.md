@@ -12,4 +12,4 @@ Obviously you need to add a shortcut in your window manager / desktop environmen
 
 # Things that may be improved in the future
 * The script only finds the line in the history where the last path was used and assumes that the path is the second word in the line by now (see the `awk` command). If the path is not the second word, the script will not work. If you have any idea on how to fix this issue, feel free to contact me.
-* The script may be ported to other shells such as bash in the future
+* The script may be ported to other shells
