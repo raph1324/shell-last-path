@@ -1,6 +1,9 @@
 # zsh-last-path
 inserts the last used path in zsh
 
+# Dependencies
+The script requires the [xdotool](https://www.semicomplete.com/projects/xdotool/) package to be installed.
+
 # Prerequisites
 You need to put `setopt INC_APPEND_HISTORY` in your `.zshrc`.  
 Also make sure that the `$histfile` variable in the script matches the path to your `$HISTFILE` in `.zshrc`  
